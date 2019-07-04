@@ -6,8 +6,8 @@
 
   Stateless là thiết kế không lưu dữ liệu của client trên server. Có nghĩa là sau khi client gửi dữ liệu lên server, server thực thi xong, trả kết quả thì “quan hệ” giữa client và server bị “cắt đứt” – server không lưu bất cứ dữ liệu gì của client. Như vậy, khái niệm “trạng thái” ở đây được hiểu là dữ liệu.</p>
 </p>2. Dữ liệu ở REST API thường là XML, YAML,.. bất cứ dạng nào mà máy có thể đọc được, và tiêu biểu được sử dụng nhiều nhất là JSON.</p> 
-</p>3. Những request cơ bản của REST:
-GET Đọc/lấy dữ liệu
+</p>3. Những request cơ bản của REST:</p>
+<p>GET Đọc/lấy dữ liệu
 
 POST Thêm mới dữ liệu
 
